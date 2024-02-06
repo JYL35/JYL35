@@ -1,4 +1,7 @@
-### Hi there 👋
+### JYL35 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYL35&count_bg=%23706EFF&title_bg=%234252AA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwodbs1223)](https://solved.ac/dlwodbs1223/)
 
 <!--
 **JYL35/JYL35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
