@@ -1,19 +1,11 @@
-### JYL35 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJYL35&count_bg=%23706EFF&title_bg=%234252AA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Hi, I'm Jaeyoun Lee 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwodbs1223)](https://solved.ac/dlwodbs1223/)
+I'm a **backend developer** who enjoys building software that makes everyday life a little easier.
 
-<!--
-**JYL35/JYL35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mainly work with **Java** and **Spring Boot**, and I'm currently in the backend track at Woowa Tech Course.
 
-Here are some ideas to get you started:
+안녕하세요, 이재윤입니다 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+일상의 불편을 줄이는 소프트웨어를 만드는 **백엔드 개발자**입니다.
+
+주로 **Java**와 **Spring Boot**를 사용하며, 현재 우아한테크코스 백엔드 과정에 참여하고 있습니다.
